@@ -1,4 +1,4 @@
-# 🎮 Rock Paper Scissors — Terminal Game
+# Rock Paper Scissors
 
 A simple, fun **Python** game that lets you play **Rock 🪨, Paper 📄, and Scissors ✂️** against the computer — right in your terminal.
 Built just for learning and having fun with coding basics!
